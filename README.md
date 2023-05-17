@@ -1,6 +1,8 @@
 # Iota
 Iota is a single line sans serif typeface, designed with Metapost. Based on Metafont, Metapost is an open source programming language that allows you to draw figures, and therefore characters. Metapost describes the letter by its "ductus", its structure.
 
+![Specimen 1](https://github.com/CamilleWisniewski/Iota/blob/451f5ef6c8ac35f1ab4c85a223b7cf03bf96e612/documentation/champi-iota.jpg)
+
 ## Resources
 The SVG export was made possible by the Single-line Relief work done by the Isdat-type
 https://github.com/isdat-type/Relief-SingleLine.git
@@ -48,9 +50,6 @@ IOTA contains 355 glyphs
 
 Support for 86 languages detected:
 Afrikaans Albanian Asu Basque Bemba Bena Breton Catalan Chiga Colognian Cornish Croatian Czech Danish Dutch English Estonian Filipino Finnish French Friulian Galician Ganda German Gusii Hungarian Inari Sami Indonesian Irish Italian Jola-Fonyi Kabuverdianu Kalenjin Kinyarwanda Latvian Lithuanian Lower Sorbian Luo Luxembourgish Luyia Machame Makhuwa-Meetto Makonde Malagasy Maltese Manx Morisyen Northern Sami North Ndebele Norwegian Bokmål Norwegian Nynorsk Nyankole Oromo Polish Portuguese Quechua Romanian Romansh Rombo Rundi Rwa Samburu Sango Sangu Scottish Gaelic Sena Serbian Shambala Shona Slovak Soga Somali Spanish Swahili Swedish Swiss German Taita Teso Turkish Upper Sorbian Uzbek (Latin) Volapük Vunjo Welsh Western Frisian Zulu
-
-## Specimen
-![Specimen 1]()
 
 ## License
 
