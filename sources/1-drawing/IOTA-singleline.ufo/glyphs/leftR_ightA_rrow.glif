@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftRightArrow" format="2">
+	<advance width="790"/>
+	<unicode hex="2194"/>
+	<outline>
+		<contour>
+			<point x="490" y="605" type="move"/>
+			<point x="554" y="497"/>
+			<point x="643" y="408"/>
+			<point x="745" y="350" type="curve"/>
+			<point x="45" y="350" type="line"/>
+			<point x="153" y="408"/>
+			<point x="242" y="497"/>
+			<point x="300" y="605" type="curve"/>
+		</contour>
+		<contour>
+			<point x="490" y="96" type="move"/>
+			<point x="554" y="198"/>
+			<point x="643" y="287"/>
+			<point x="745" y="350" type="curve"/>
+		</contour>
+		<contour>
+			<point x="300" y="96" type="move"/>
+			<point x="242" y="198"/>
+			<point x="153" y="287"/>
+			<point x="45" y="350" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-05-08 12:57:07 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+	<advance width="270"/>
+	<unicode hex="002E"/>
+	<outline>
+		<contour>
+			<point x="103" y="-100" type="line"/>
+			<point x="167" y="-82"/>
+			<point x="201" y="-11"/>
+			<point x="178" y="60" type="curve"/>
+			<point x="65" y="60" type="line"/>
+			<point x="65" y="30" type="line"/>
+			<point x="155" y="30" type="line"/>
+			<point x="161" y="-17"/>
+			<point x="137" y="-59"/>
+			<point x="95" y="-71" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-04-26 11:16:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

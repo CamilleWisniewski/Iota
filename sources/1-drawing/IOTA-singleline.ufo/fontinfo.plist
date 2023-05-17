@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>790</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>descender</key>
+	<integer>-290</integer>
+	<key>familyName</key>
+	<string>IOTA-SingleLine</string>
+	<key>openTypeHeadCreated</key>
+	<string>2023/05/02 15:25:27</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptFontName</key>
+	<string>IOTA-SingleLine-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>

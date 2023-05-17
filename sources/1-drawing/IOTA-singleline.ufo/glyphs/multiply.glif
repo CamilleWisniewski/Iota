@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="2">
+	<advance width="538"/>
+	<unicode hex="00D7"/>
+	<outline>
+		<contour>
+			<point x="55" y="500" type="move"/>
+			<point x="483" y="71" type="line"/>
+		</contour>
+		<contour>
+			<point x="483" y="500" type="move"/>
+			<point x="55" y="71" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-05-08 11:27:42 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two" format="2">
+	<advance width="620"/>
+	<unicode hex="0032"/>
+	<outline>
+		<contour>
+			<point x="50" y="560" type="move"/>
+			<point x="99" y="651"/>
+			<point x="190" y="700"/>
+			<point x="295" y="700" type="curve" smooth="yes"/>
+			<point x="400" y="700"/>
+			<point x="505" y="630"/>
+			<point x="505" y="525" type="curve" smooth="yes"/>
+			<point x="505" y="413"/>
+			<point x="393" y="351"/>
+			<point x="295" y="280" type="curve" smooth="yes"/>
+			<point x="193" y="206"/>
+			<point x="106" y="112"/>
+			<point x="50" y="0" type="curve"/>
+			<point x="435" y="0" type="line" smooth="yes"/>
+			<point x="505" y="0"/>
+			<point x="568" y="70"/>
+			<point x="575" y="140" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-05-10 12:29:55 +0000</string>
+		</dict>
+	</lib>
+</glyph>

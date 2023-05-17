@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="2">
+	<advance width="585"/>
+	<unicode hex="2044"/>
+	<outline>
+		<contour>
+			<point x="65" y="0" type="move"/>
+			<point x="515" y="700" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-05-10 12:30:45 +0000</string>
+		</dict>
+	</lib>
+</glyph>

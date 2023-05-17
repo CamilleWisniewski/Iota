@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southWestArrow" format="2">
+	<advance width="591"/>
+	<unicode hex="2199"/>
+	<outline>
+		<contour>
+			<point x="132" y="495" type="line"/>
+			<point x="157" y="337"/>
+			<point x="127" y="185"/>
+			<point x="45" y="57" type="curve"/>
+			<point x="66" y="36" type="line"/>
+			<point x="556" y="533" type="line"/>
+			<point x="535" y="555" type="line"/>
+			<point x="47" y="60" type="line"/>
+			<point x="70" y="41" type="line"/>
+			<point x="156" y="174"/>
+			<point x="187" y="335"/>
+			<point x="161" y="500" type="curve"/>
+		</contour>
+		<contour>
+			<point x="502" y="155" type="line"/>
+			<point x="343" y="177"/>
+			<point x="185" y="145"/>
+			<point x="50" y="62" type="curve"/>
+			<point x="66" y="36" type="line"/>
+			<point x="195" y="116"/>
+			<point x="345" y="147"/>
+			<point x="498" y="125" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-05-08 14:34:20 +0000</string>
+		</dict>
+	</lib>
+</glyph>

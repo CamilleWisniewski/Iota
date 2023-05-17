@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+	<advance width="520"/>
+	<unicode hex="00F7"/>
+	<outline>
+		<contour>
+			<point x="465" y="265" type="line"/>
+			<point x="45" y="265" type="line"/>
+			<point x="45" y="235" type="line"/>
+			<point x="465" y="235" type="line"/>
+		</contour>
+		<contour>
+			<point x="235" y="343" type="line"/>
+			<point x="301" y="376"/>
+			<point x="333" y="444"/>
+			<point x="310" y="510" type="curve"/>
+			<point x="193" y="510" type="line"/>
+			<point x="193" y="480" type="line"/>
+			<point x="287" y="480" type="line"/>
+			<point x="293" y="435"/>
+			<point x="268" y="393"/>
+			<point x="222" y="370" type="curve"/>
+		</contour>
+		<contour>
+			<point x="235" y="-53" type="line"/>
+			<point x="301" y="-19"/>
+			<point x="333" y="51"/>
+			<point x="311" y="119" type="curve"/>
+			<point x="193" y="119" type="line"/>
+			<point x="193" y="89" type="line"/>
+			<point x="287" y="89" type="line"/>
+			<point x="293" y="42"/>
+			<point x="268" y="-3"/>
+			<point x="222" y="-27" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-05-08 14:28:49 +0000</string>
+		</dict>
+	</lib>
+</glyph>

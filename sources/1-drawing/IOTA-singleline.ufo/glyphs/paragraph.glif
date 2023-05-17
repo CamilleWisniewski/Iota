@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph" format="2">
+	<advance width="415"/>
+	<unicode hex="00B6"/>
+	<outline>
+		<contour>
+			<point x="270" y="0" type="move"/>
+			<point x="270" y="790" type="line"/>
+			<point x="170" y="790"/>
+			<point x="60" y="650"/>
+			<point x="60" y="500" type="curve"/>
+			<point x="157" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="340" y="0" type="move"/>
+			<point x="340" y="790" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-05-08 15:42:14 +0000</string>
+		</dict>
+	</lib>
+</glyph>

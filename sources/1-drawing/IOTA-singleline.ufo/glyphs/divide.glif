@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+	<advance width="528"/>
+	<unicode hex="00F7"/>
+	<outline>
+		<contour>
+			<point x="45" y="250" type="move"/>
+			<point x="473" y="250" type="line"/>
+		</contour>
+		<contour>
+			<point x="196" y="510" type="move"/>
+			<point x="304" y="510" type="line"/>
+			<point x="318" y="452"/>
+			<point x="289" y="395"/>
+			<point x="232" y="366" type="curve"/>
+		</contour>
+		<contour>
+			<point x="196" y="104" type="move"/>
+			<point x="304" y="104" type="line"/>
+			<point x="318" y="46"/>
+			<point x="289" y="-11"/>
+			<point x="232" y="-40" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-05-08 11:58:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="2">
+	<advance width="370"/>
+	<unicode hex="002D"/>
+	<outline>
+		<contour>
+			<point x="60" y="265" type="move"/>
+			<point x="310" y="265" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-05-02 14:09:06 +0000</string>
+		</dict>
+	</lib>
+</glyph>
